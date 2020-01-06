@@ -1,8 +1,14 @@
 # yaba-japanese やば日本語
 
-矢波日语扫描版，感谢[小德](https://www.zhihu.com/people/guo-wei-12-52) 提供的珍贵原书，以及[叶痕](https://www.zhihu.com/people/murata/activities) 提供的分页扫描件。
+一天速成日语，阅读科技文献
+
+《矢波日语》 关永昌 张慧琴 关树暄 著
+
+## 介绍
 
 详情介绍见：[如何评价「日文里有汉字，没学过也能大概看得懂」这类说法？ - 小德的回答 - 知乎](https://www.zhihu.com/question/44769704/answer/773550786)
+
+矢波日语扫描版，感谢[小德](https://www.zhihu.com/people/guo-wei-12-52) 提供的珍贵原书，以及[叶痕](https://www.zhihu.com/people/murata/activities) 提供的分页扫描件。
 
 ## 下载地址
 
