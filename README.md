@@ -10,6 +10,8 @@
 
 矢波日语扫描版，感谢[小德](https://www.zhihu.com/people/guo-wei-12-52)提供的珍贵原书，以及[叶痕](https://www.zhihu.com/people/murata/activities)提供的分页扫描件。
 
+汉译图表在本页的最底部 ↓ 。
+
 ## 下载地址
 
 [Release](https://github.com/linonetwo/yaba-japanese/releases)，点开 Assets 可看到 default.pdf
@@ -46,3 +48,12 @@
 ## 关于缺失的页码
 
 84-163 是 2 个长文例子分析和原文，冗杂暂不扫描；196-297 是作业训练，于原书已被撕去，湮没于历史中。
+
+## 汉译图表
+
+![src/汉译图表-1.jpeg](src/汉译图表-1.jpeg)
+
+
+![src/汉译图表-2.jpeg](src/汉译图表-2.jpeg)
+
+
